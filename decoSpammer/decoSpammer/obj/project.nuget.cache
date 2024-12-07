@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "NXO+nEK8+Xc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\thisi\\source\\repos\\decoSpammer\\decoSpammer\\decoSpammer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\thisi\\.nuget\\packages\\costura.fody\\6.0.0\\costura.fody.6.0.0.nupkg.sha512",
+    "C:\\Users\\thisi\\.nuget\\packages\\fody\\6.8.2\\fody.6.8.2.nupkg.sha512",
+    "C:\\Users\\thisi\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
