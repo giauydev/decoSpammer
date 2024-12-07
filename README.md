@@ -2,7 +2,7 @@
 Phần mềm tạo thiệp cho Deco My Tree với số lượng lớn. [Open-Source]
 Software to create cards for Deco My Tree in bulk. [Open-Source]
 # LINKS
-- 🔗 [Youtube Channel]([[https://www.youtube.com/channel/UC9_kma0SOd-oSe24gqpqqCA](https://www.youtube.com/@sowwyz)](https://www.youtube.com/@giauydev))
+- 🔗 [Youtube Channel](https://www.youtube.com/@giauydev)
 # FEATURES
 create cards for Deco My Tree in bulk
 # SCREENSHOT
