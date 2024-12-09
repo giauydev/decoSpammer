@@ -1,6 +1,8 @@
 # decoSpammer
 Phần mềm tạo thiệp cho Deco My Tree với số lượng lớn. [Open-Source]
 Software to create cards for Deco My Tree in bulk. [Open-Source]
+# REQUIREMENT
+Use .NET 8.0 or later
 # LINKS
 - 🔗 [Youtube Channel](https://www.youtube.com/@giauydev)
 - 🔗 [Tutorial](https://www.youtube.com/watch?v=2nwALmY4DHA&ab_channel=giauyDev)
